@@ -1,9 +1,10 @@
 # Goals
+# Overall getting 1 billion xp
 ## Maxing
 ```
 Check Capes&Xp milestones.MD for dates when achieved
 ```
-# Overall get 1 billion xp
+
 ## 200m goals include getting:
 ```
           200m Cooking through best gp/xp
