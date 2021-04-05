@@ -1,7 +1,7 @@
 ## Goals
- Overall get 1 billion xp
+#Overall get 1 billion xp
+   200m goals include getting:
 ```
-    200m goals include getting:
           200m Cooking through best gp/xp
           200m Farming through seeds in bank
 ```
