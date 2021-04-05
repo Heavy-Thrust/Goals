@@ -1,6 +1,6 @@
 # Goals
-# Overall getting 1 billion xp
-## Maxing
+# Overall getting 1 billion xp through doing the following
+## Maxing the account Heavy Thrust
 ```
 Check Capes&Xp milestones.MD for dates when achieved
 ```
