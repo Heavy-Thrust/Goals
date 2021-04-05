@@ -1,15 +1,14 @@
-# Goals
-# Overall getting 1 billion Xp through doing the following
+# Getting 1 billion Xp through doing the following
 ## Maxing the account Heavy Thrust
 ```
-          Check Capes & Xp milestones.MD for dates when achieved
+          Check Dates.MD for dates when achieved
 ```
-
-## 200m goals include getting:
+## Xp related goals include getting:
 ```
           200m Cooking through best gp/Xp
           200m Farming through seeds in bank
           100m Woodcutting by afking redwoods
+          100m Crafting through discounted Zaff Battlestaffs 
 ```
 ## Going for skilling pets i want
 ```
