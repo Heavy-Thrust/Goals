@@ -33,5 +33,5 @@
           Baby Mole form Giant Mole
 
 ```
-# Total Xp as of 4/5/21 is: 130,500,000
+# Total Xp as of 4/5/21 is: 130,500,000(updated weekly)
 > Please check the Dates.MD for all dates when something was achieved.
