@@ -1,8 +1,8 @@
 ## Capes and the dates they were obtained
 ```
-firemaking(10/7/20)
-farming(10/11/20)
-cooking(10/16/20)
-quest cape(11/25/20)
-strength(1/22/21)
+Firemaking (10/7/20)
+Farming (10/11/20)
+Cooking (10/16/20)
+Quest cape (11/25/20)
+Strength (1/22/21)
 ```
