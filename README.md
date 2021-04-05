@@ -1,1 +1,1 @@
-# This is the FAQ/infornation about my goals in OSRS on teh account Heavy Thrust.
+# This is the FAQ/information about my goals in OSRS on the account Heavy Thrust.
