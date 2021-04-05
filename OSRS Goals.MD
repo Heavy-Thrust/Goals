@@ -1,5 +1,5 @@
 # Getting 1 billion Xp through doing the following
-## Maxing the account Heavy Thrust
+## Maxing the account Heavy Thrust:
 ```
           Check Dates.MD for dates when achieved
 ```
@@ -8,9 +8,9 @@
           200m Cooking through best gp/Xp
           200m Farming through seeds in bank
           100m Woodcutting by afking redwoods
-          100m Crafting through discounted Zaff Battlestaffs 
+          100m Crafting through discounted Zaff Battlestaffs
 ```
-## Going for skilling pets i want
+## Going for skilling pets i want:
 ```
           Hunter till herbi pet
           Firemaking till phoenix pet
@@ -19,9 +19,8 @@
           Farming until 200m
           Mining at mlm
           Beaver until 100m
-
 ```
-## Going for bossing pets i want
+## Going for bossing pets i want:
 ```
           Skotos from Skotizo
           Smolcano from Zalcano
@@ -30,7 +29,6 @@
           Chaos Elemental from Chaos Elemental
           Hellpuppy from Cerberus
           Baby Mole form Giant Mole
-
 ```
 # Total Xp as of 4/5/21 is: 130,500,000(updated weekly)
 > Please check the Dates.MD for all dates when something was achieved.
