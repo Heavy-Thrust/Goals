@@ -1,6 +1,6 @@
-## Goals
+# Goals
 ## Maxing
-> Check Capes.MD for dates when achieved
+> Check Capes&Xp milestones.MD for dates when achieved
 
 # Overall get 1 billion xp
 ## 200m goals include getting:
