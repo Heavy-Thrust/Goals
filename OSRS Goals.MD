@@ -16,9 +16,9 @@
           Firemaking till phoenix pet
           Fishing till tempo pet
           Runecraft bloods till pet
-          Farming until 200m
+          Farming until pet(still going for 200m)
           Mining at mlm
-          Beaver until 100m
+          Beaver until pet (sill going for 200m)
 ```
 ## Going for bossing pets i want:
 ```
@@ -30,5 +30,5 @@
           Hellpuppy from Cerberus
           Baby Mole form Giant Mole
 ```
-# Total Xp as of 4/5/21 is: 130,500,000(updated weekly)
+# Total Xp as of 4/11/21 is: 134,600,000
 > Please check the Dates.MD for all dates when something was achieved.
