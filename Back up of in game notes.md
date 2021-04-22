@@ -14,6 +14,7 @@ afk while playing other games
 	cookng for profit
 	slayer for not so afk games
 	fletch longbows(u)
+  
 		diary
 ardy elite
 	80/82 thiev
