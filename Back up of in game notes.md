@@ -62,7 +62,7 @@ morty elite
 varrock elite
 	78 rc
 
-  westp/wild no () kandern with ba
+    westp/wild no () kandern with ba
 
 
 I've lost too many friends to think I deserve my relevance
