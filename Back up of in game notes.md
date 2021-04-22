@@ -11,7 +11,7 @@ afk while playing other games///
 	nmz,
 	crafting glass blow,
 	plank make,
-	cookng for profit,
+	cooking for profit,
 	slayer for not so afk games,
 	fletch longbows(u),
 
@@ -62,7 +62,7 @@ morty elite
 varrock elite
 	78 rc
 
-westp/wild no () kandern with ba
+  westp/wild no () kandern with ba
 
 
 I've lost too many friends to think I deserve my relevance
