@@ -1,7 +1,7 @@
 goals
 var/lum/keb/morty elite
 work on base 80/85/90
-
+89 hunter for redwood bhouses
 
 
 afk while playing other games
