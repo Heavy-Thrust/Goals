@@ -1,7 +1,7 @@
 goals
 var/lum/keb/morty elite
 work on base 80/85/90
-89 hunter for redwood bhouses
+
 
 
 afk while playing other games
@@ -45,7 +45,6 @@ karam elite
 kebos elite
 	95 slay,
 	77 rc,
-	90 woodcut,
 	do a raid,
 
 lumy elite
