@@ -10,5 +10,3 @@
 ```
           Rocky 60k xp (7/8/20)
 ```
-
-> Please note that not all achievements are listed as this repo was started on 4/5/21
