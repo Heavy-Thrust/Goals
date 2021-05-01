@@ -1,8 +1,6 @@
 goals
 var/lum/keb/morty elite
-work on base 80/85/90
-
-
+work on base 80/85/99
 
 	afk while playing other games
 smith c-balls,
@@ -24,7 +22,7 @@ slayer for not so afk games,
 fletch longbows(u),
 
 
-		diary
+	diary
 ardy elite
 	80/82 thiev,
 	91 smith,
