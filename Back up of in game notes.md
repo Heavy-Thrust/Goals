@@ -6,14 +6,23 @@ work on base 80/85/90
 
 	afk while playing other games
 smith c-balls,
+
 fish anglers/eels,
+
 magic trees/redwoods,
+
 nmz,
+
 crafting glass blow,
+
 plank make,
+
 cookng for profit,
+
 slayer for not so afk games,
+
 fletch longbows(u),
+
 
 		diary
 ardy elite
