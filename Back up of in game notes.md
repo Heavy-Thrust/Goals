@@ -1,6 +1,6 @@
 goals
 var/lum/keb/morty elite
-work on base 80/85/99
+work on base 80/85/90
 
 	afk while playing other games
 smith c-balls,
