@@ -2,6 +2,13 @@ goals
 var/lum/keb/morty elite
 work on base 80/85/90
 
+	woring on now 
+angler outfit
+
+herbi/89hunt
+
+fishrttot to 99
+
 	afk while playing other games
 smith c-balls,
 
