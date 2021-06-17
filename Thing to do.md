@@ -1,5 +1,8 @@
 goals
 https://oldschool.runescape.wiki/w/Kourend_%26_Kebos_Diary#Elite
+
+https://oldschool.runescape.wiki/w/Morytania_Diary#Elite
+
 var/lum/keb/morty elite
 
 work on base 80/85/90
