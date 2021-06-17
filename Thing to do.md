@@ -4,7 +4,9 @@ https://oldschool.runescape.wiki/w/Kourend_%26_Kebos_Diary#Elite
 
 https://oldschool.runescape.wiki/w/Morytania_Diary#Elite
 
-var/lum/keb/morty elite
+https://oldschool.runescape.wiki/w/Lumbridge_%26_Draynor_Diary#Elite
+
+https://oldschool.runescape.wiki/w/Varrock_Diary#Elite
 
 work on base 80/85/90
 
