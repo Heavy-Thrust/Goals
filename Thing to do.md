@@ -45,49 +45,86 @@ fletch longbows(u),
 
 	diary
 ardy elite
+
 	80/82 thiev,
+	
 	91 smith,
+	
 	90 agil,
+	
 	94 mage,
+	
 
 desert elite
+
 	94 mge,
+	
 	91 thiev,
+	
 	kq head,
+	
 	85 pray,
+	
 
 fally elite
+
 	88 rc,
+	
 	white 2h sword,
+	
 
 frem elite
+
 	82 rc,
+	
 	kill dks,
+	
 	kill godwars,
 
+
 karam elite
+
 	91 rc,
+	
 	87 herb,
+	
 	fire cape,
 
+
 kebos elite
-	95 slay,
+
+        95 slay,
+	
 	77 rc,
+
+	
 	do a raid,
+	
 
 lumy elite
+
 	bones to peaches,
+	
 	78 thiev,
+	
 	88 smith,
+	
 	76 rc,
+	
 	pick pck movario,
+	
 
 morty elite
+
 	96 fish,
+	
 	b run with full set,
+	
 
 varrock elite
+
 	78 rc,
+	
 
 		westp/wild no () kandern with ba
 
