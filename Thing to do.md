@@ -42,94 +42,20 @@ slayer for not so afk games,
 
 fletch longbows(u),
 
+Diary
 
-diary
-	
-ardy elite
+https://oldschool.runescape.wiki/w/Ardougne_Diary
 
-	80/82 thiev,
-	
-	91 smith,
-	
-	90 agil,
-	
-	94 mage,
-	
+https://oldschool.runescape.wiki/w/Desert_Diary
 
-desert elite
+https://oldschool.runescape.wiki/w/Falador_Diary
 
-	94 mge,
-	
-	91 thiev,
-	
-	kq head,
-	
-	85 pray,
-	
+https://oldschool.runescape.wiki/w/Fremennik_Diary
 
-fally elite
+https://oldschool.runescape.wiki/w/Kandarin_Diary
 
-	88 rc,
-	
-	white 2h sword,
-	
+https://oldschool.runescape.wiki/w/Karamja_Diary
 
-frem elite
+https://oldschool.runescape.wiki/w/Western_Provinces_Diary
 
-	82 rc,
-	
-	kill dks,
-	
-	kill godwars,
-
-
-karam elite
-
-	91 rc,
-	
-	87 herb,
-	
-	fire cape,
-
-
-kebos elite
-
-	95 slay,
-	
-	77 rc,
-
-	do a raid,
-	
-
-lumy elite
-
-	bones to peaches,
-	
-	78 thiev,
-	
-	88 smith,
-	
-	76 rc,
-	
-	pick pck movario,
-	
-
-morty elite
-
-	96 fish,
-	
-	b run with full set,
-	
-
-varrock elite
-
-	78 rc,
-	
-
-		westp/wild no () kandern with ba
-
-
-I've lost too many friends to think I deserve my relevance
-
-I won't stay too long
-I gave my all
+https://oldschool.runescape.wiki/w/Wilderness_Diary
