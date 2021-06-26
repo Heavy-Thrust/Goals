@@ -43,7 +43,8 @@ slayer for not so afk games,
 fletch longbows(u),
 
 
-	diary
+diary
+	
 ardy elite
 
 	80/82 thiev,
@@ -97,7 +98,6 @@ kebos elite
 	
 	77 rc,
 
-	
 	do a raid,
 	
 
