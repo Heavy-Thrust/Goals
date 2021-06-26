@@ -94,7 +94,7 @@ karam elite
 
 kebos elite
 
-        95 slay,
+	95 slay,
 	
 	77 rc,
 
