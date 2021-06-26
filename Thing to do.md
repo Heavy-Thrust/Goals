@@ -10,52 +10,54 @@ https://oldschool.runescape.wiki/w/Varrock_Diary#Elite
 
 work on base 80/85/90
 
-	woring on now 
-herbi/89hunt
+woring on now 
 
-work on crafting 
+	herbi/89hunt
 
-work on fletch
+	work on crafting 
 
-work on herb
+	work on fletch
 
-fishrttot to 99
+	work on herb
 
-77 runecraft
+	fishrttot to 99
 
-	afk while playing other games
-smith c-balls,
+	77 runecraft
 
-fish anglers/eels,
+afk while playing other games
 
-magic trees/redwoods,
+	smith c-balls,
 
-nmz,
+	fish anglers/eels,
 
-crafting glass blow,
+	magic trees/redwoods,
 
-plank make,
+	nmz,
 
-cookng for profit,
+	crafting glass blow,
 
-slayer for not so afk games,
+	plank make,
 
-fletch longbows(u),
+	cookng for profit,
+
+	slayer for not so afk games,
+
+	fletch longbows(u),
 
 Diary
 
-https://oldschool.runescape.wiki/w/Ardougne_Diary
+	https://oldschool.runescape.wiki/w/Ardougne_Diary
 
-https://oldschool.runescape.wiki/w/Desert_Diary
+	https://oldschool.runescape.wiki/w/Desert_Diary
 
-https://oldschool.runescape.wiki/w/Falador_Diary
+	https://oldschool.runescape.wiki/w/Falador_Diary
 
-https://oldschool.runescape.wiki/w/Fremennik_Diary
+	https://oldschool.runescape.wiki/w/Fremennik_Diary
 
-https://oldschool.runescape.wiki/w/Kandarin_Diary
+	https://oldschool.runescape.wiki/w/Kandarin_Diary
 
-https://oldschool.runescape.wiki/w/Karamja_Diary
+	https://oldschool.runescape.wiki/w/Karamja_Diary
 
-https://oldschool.runescape.wiki/w/Western_Provinces_Diary
+	https://oldschool.runescape.wiki/w/Western_Provinces_Diary
 
-https://oldschool.runescape.wiki/w/Wilderness_Diary
+	https://oldschool.runescape.wiki/w/Wilderness_Diary
