@@ -61,3 +61,11 @@ https://oldschool.runescape.wiki/w/Karamja_Diary
 https://oldschool.runescape.wiki/w/Western_Provinces_Diary
 
 https://oldschool.runescape.wiki/w/Wilderness_Diary
+
+
+fossil
+
+	small 2
+	medium 8
+	large ?
+	plant 3
