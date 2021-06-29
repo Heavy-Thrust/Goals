@@ -23,6 +23,14 @@ woring on now
 	fishrttot to 99
 
 	77 runecraft
+	
+thinsg to do for mega afk
+
+	87 fish
+	
+	90 woodcut
+	
+	92 mining
 
 afk while playing other games
 
