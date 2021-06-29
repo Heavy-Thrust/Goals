@@ -31,6 +31,8 @@ thinsg to do for mega afk
 	90 woodcut
 	
 	92 mining
+	
+	77 runecraft
 
 afk while playing other games
 
