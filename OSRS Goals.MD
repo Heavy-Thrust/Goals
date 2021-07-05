@@ -30,5 +30,5 @@
           Hellpuppy from Cerberus
           Baby Mole form Giant Mole
 ```
-# Total Xp as of 4/11/21 is: 134,600,000
+# Total Xp as of 7/4/21 is: 173,200,000
 > Please check the Dates.MD for all dates when something was achieved.
