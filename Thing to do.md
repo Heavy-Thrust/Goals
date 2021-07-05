@@ -26,7 +26,7 @@ woring on now
 	
 thinsg to do for mega afk
 
-	87 fish
+	87 fish(76 agil)
 	
 	90 woodcut
 	
