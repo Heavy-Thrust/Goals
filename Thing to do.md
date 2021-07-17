@@ -25,8 +25,6 @@ woring on now
 	77 runecraft
 	
 thinsg to do for mega afk
-
-	87 fish(76 agil)
 	
 	90 woodcut
 	
