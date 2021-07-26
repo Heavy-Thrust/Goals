@@ -54,23 +54,7 @@ afk while playing other games
 
 	fletch longbows(u),
 
-Diary
 
-https://oldschool.runescape.wiki/w/Ardougne_Diary
-
-https://oldschool.runescape.wiki/w/Desert_Diary
-
-https://oldschool.runescape.wiki/w/Falador_Diary
-
-https://oldschool.runescape.wiki/w/Fremennik_Diary
-
-https://oldschool.runescape.wiki/w/Kandarin_Diary
-
-https://oldschool.runescape.wiki/w/Karamja_Diary
-
-https://oldschool.runescape.wiki/w/Western_Provinces_Diary
-
-https://oldschool.runescape.wiki/w/Wilderness_Diary
 
 
 fossil
