@@ -1,3 +1,27 @@
+Currently working on
+
+	91 fish(diary task)
+	
+	90 woodcut(afk)
+	
+	99 fletch(profit)
+	
+	99 craft(cape)
+	
+	92 mining(afk)
+	
+	90 slay(diary task)
+
+Things to do for mega afk
+	
+	90 woodcut
+	
+	92 mining
+	
+	77 runecraft
+	
+	
+	
 Diary
 
 https://oldschool.runescape.wiki/w/Ardougne_Diary#Elite
@@ -25,14 +49,7 @@ https://oldschool.runescape.wiki/w/Western_Provinces_Diary#Elite
 https://oldschool.runescape.wiki/w/Wilderness_Diary#Elite
 
 
-	
-thinsg to do for mega afk
-	
-	90 woodcut
-	
-	92 mining
-	
-	77 runecraft
+
 
 afk while playing other games
 
