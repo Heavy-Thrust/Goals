@@ -8,21 +8,7 @@ https://oldschool.runescape.wiki/w/Lumbridge_%26_Draynor_Diary#Elite
 
 https://oldschool.runescape.wiki/w/Varrock_Diary#Elite
 
-work on base 80/85/90
 
-woring on now 
-
-	herbi
-
-	work on crafting 
-
-	work on fletch
-
-	work on herb
-
-	fishrttot to 99
-
-	77 runecraft
 	
 thinsg to do for mega afk
 	
