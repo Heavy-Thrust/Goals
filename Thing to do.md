@@ -1,6 +1,6 @@
-Currently working on
+Currently working on(non boosted stats)
 
-	91 fish(diary task)
+	96 fish(diary task)
 	
 	90 woodcut(afk)
 	
@@ -10,7 +10,7 @@ Currently working on
 	
 	92 mining(afk)
 	
-	90 slay(diary task)
+	95 slay(diary task)
 
 Things to do for mega afk
 	
