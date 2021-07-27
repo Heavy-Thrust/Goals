@@ -71,7 +71,13 @@ afk while playing other games
 
 	fletch longbows(u),
 
+order to do volcanic mine
 
+	get tool seed from zalcano
+	
+	buy regen bracelet
+	
+	do it
 
 
 fossil
