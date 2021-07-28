@@ -80,9 +80,9 @@ order to do volcanic mine
 	do it
 
 
-fossil
+fossil displays left to complete
 
-	small 2
+	small 1
 	medium 8
 	large ?
 	plant 3
