@@ -2,8 +2,6 @@ Currently working on(non boosted stats)
 
 	96 fish(diary task)
 	
-	90 woodcut(afk)
-	
 	99 fletch(profit)
 	
 	99 craft(cape)
@@ -57,7 +55,7 @@ afk while playing other games
 
 	fish anglers/eels,
 
-	magic trees/redwoods,
+	redwoods,
 
 	nmz,
 
@@ -75,9 +73,6 @@ order to do volcanic mine
 
 	get tool seed from zalcano
 	
-	buy regen bracelet
-	
-	do it
 
 
 fossil displays left to complete
