@@ -32,3 +32,6 @@
 ```
 # Total Xp as of 7/4/21 is: 173,200,000
 > Please check the Dates.MD for all dates when something was achieved.
+
+
+# Completing achievement diary
