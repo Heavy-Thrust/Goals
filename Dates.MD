@@ -11,3 +11,8 @@
 ```
           Rocky 60k xp (7/8/20)
 ```
+## Other achievements
+```
+          1b bank value (8/6/21)
+```
+
