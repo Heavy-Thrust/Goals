@@ -6,6 +6,7 @@
           Strength Cape (1/22/21)
           Hitpoints Cape (5/19/21)
           Defence Cape (5/28/21)
+          Woodcutting Cape (8/30/21)
 ```
 ## Pets and their xp/kc and date obtained
 ```
