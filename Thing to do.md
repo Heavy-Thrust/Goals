@@ -9,6 +9,18 @@ Currently working on(non boosted stats)
 	92 mining(afk)
 	
 	95 slay(diary task)
+	
+AFK for XIV expack
+	
+	fishing eels/anglers
+	
+	smithing cballs
+	
+	plank make
+	
+	cook for profit
+	
+	
 
 Things to do for mega afk
 	
