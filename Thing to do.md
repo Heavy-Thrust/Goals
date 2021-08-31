@@ -12,8 +12,6 @@ Currently working on(non boosted stats)
 
 Things to do for mega afk
 	
-	90 woodcut
-	
 	92 mining
 	
 	77 runecraft
