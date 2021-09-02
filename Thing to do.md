@@ -17,6 +17,8 @@ AFK for XIV expack
 	smithing cballs
 	
 	plank make
+
+        amethyst mining into dart tips
 	
 	cook for profit
 	
