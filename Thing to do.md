@@ -1,4 +1,24 @@
-Currently working on(non boosted stats)
+Things to do before EW
+	
+	92 mining
+	
+	77 runecraft
+	
+AFK for XIV expack
+	
+	amethyst for dart tips(shoot for 100k?)
+	
+	blood crafting
+	
+	fishing eels/anglers
+	
+	smithing cballs
+	
+	plank make
+	
+	cook for profit
+	
+working on(non boosted stats)
 
 	96 fish(diary task)
 	
@@ -10,27 +30,7 @@ Currently working on(non boosted stats)
 	
 	95 slay(diary task)
 	
-AFK for XIV expack
-	
-	fishing eels/anglers
-	
-	smithing cballs
-	
-	plank make
-
-        amethyst mining into dart tips
-	
-	cook for profit
-	
-	
-
-Things to do for mega afk
-	
-	92 mining
-	
-	77 runecraft
-	
-	
+		
 	
 Diary
 
