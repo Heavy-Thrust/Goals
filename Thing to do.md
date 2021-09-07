@@ -4,7 +4,7 @@ Things to do before EW
 	
 	77 runecraft
 	
-AFK for XIV expack
+AFK for XIV expack/new world
 	
 	amethyst for dart tips(shoot for 100k?)
 	
