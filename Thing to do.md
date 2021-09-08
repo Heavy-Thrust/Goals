@@ -12,6 +12,8 @@ AFK for XIV expack/new world
 	
 	fishing eels/anglers
 	
+	fish karaji
+	
 	smithing cballs
 	
 	plank make
