@@ -35,6 +35,7 @@
 # Having a 1b bank value
 # Completing achievement diary
 # Champion cape
+~~~
 Imp-624
 Goblin-1844
 Skelton-1986
@@ -45,3 +46,4 @@ Ghoul-
 Earth warrior-
 Joger-
 Lesser
+~~~
