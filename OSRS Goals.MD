@@ -36,14 +36,14 @@
 # Completing achievement diary
 # Champion cape
 ~~~
-Imp-624
-Goblin-1844
-Skelton-1986
-Zombie-
-Giant-????
-Hobgoblin-
-Ghoul-
-Earth warrior-
-Joger-
-Lesser
+          Imp-624
+          Goblin-1844
+          Skelton-1986
+          Zombie-
+          Giant-????
+          Hobgoblin-
+          Ghoul-
+          Earth warrior-
+          Joger-
+          Lesser
 ~~~
