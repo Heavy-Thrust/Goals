@@ -34,3 +34,4 @@
 > Please check the Dates.MD for all dates when something was achieved.
 # Having a 1b bank value
 # Completing achievement diary
+# champion cape
