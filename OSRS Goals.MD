@@ -34,4 +34,14 @@
 > Please check the Dates.MD for all dates when something was achieved.
 # Having a 1b bank value
 # Completing achievement diary
-# champion cape
+# Champion cape
+Imp-624
+Goblin-1844
+Skelton-1986
+Zombie-
+Giant-????
+Hobgoblin-
+Ghoul-
+Earth warrior-
+Joger-
+Lesser
