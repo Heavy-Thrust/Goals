@@ -2,7 +2,7 @@ farm stuff
 
 b-staffs/herb boxes
 
-33% of a mining lvl
+33% of a mining lvl       20% runecraft lvl
 
 500+ zpmbie kills
 
