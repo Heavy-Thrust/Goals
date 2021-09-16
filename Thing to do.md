@@ -12,11 +12,13 @@ AFK for XIV expack/new world
 	
 	fishing eels/anglers
 	
-	fish karaji
-	
 	smithing cballs
 	
+	glass blowing
+	
 	plank make
+	
+	woodcut
 	
 	cook for profit
 	
