@@ -6,4 +6,6 @@ b-staffs/herb boxes
 
 500+ zpmbie kills
 
+work on diary req top down
+
 woodcut if playing other games 
