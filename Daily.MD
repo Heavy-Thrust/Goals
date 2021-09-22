@@ -8,4 +8,4 @@ b-staffs/herb boxes
 
 work on diary req top down
 
-woodcut if playing other games 
+woodcut/anglers if playing other games 
