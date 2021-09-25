@@ -8,9 +8,9 @@ AFK for XIV expack/new world
 	
 	amethyst for dart tips(shoot for 100k?)
 	
-	"blood crafting(unsure actually how afk)"
-	
 	fishing eels/anglers
+	
+	"blood crafting(unsure actually how afk)"
 	
 	smithing cballs
 	
