@@ -1,7 +1,5 @@
 Things to do before EW
 	
-	92 mining
-	
 	77 runecraft
 	
 AFK for XIV expack/new world
