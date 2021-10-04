@@ -7,5 +7,3 @@ b-staffs/herb boxes
 500+ zpmbie kills
 
 work on diary req top down
-
-woodcut/fish if playing other games 
