@@ -28,8 +28,6 @@ working on(non boosted stats)
 	
 	99 craft(cape)
 	
-	92 mining(afk)
-	
 	95 slay(diary task)
 	
 		
