@@ -2,7 +2,7 @@ farm stuff
 
 b-staffs/herb boxes
 
-20% runecraft lvl
+25% runecraft lvl
 
 500+ zpmbie kills
 
