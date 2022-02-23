@@ -8,6 +8,9 @@
           Defence Cape (5/28/21)
           Woodcutting Cape (8/30/21)
           Attack Cape (9/2/21)
+          Mining Cape (11/13/21)
+          Fishing cape (1/26/22)
+          Magic cape (2/15/22)
           
 ```
 ## Pets and their xp/kc and date obtained
