@@ -11,6 +11,7 @@
           Mining Cape (11/13/21)
           Fishing cape (1/26/22)
           Magic cape (2/15/22)
+          Crafting cape (2/26/22)
           
 ```
 ## Pets and their xp/kc and date obtained
