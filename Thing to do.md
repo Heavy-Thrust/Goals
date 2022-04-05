@@ -2,17 +2,15 @@ Things to do before EW
 	
 	77 runecraft
 	
-AFK for XIV expack/new world
+AFK 
 	
-	amethyst for dart tips(shoot for 100k?)
+	amethyst for dart tips
 	
 	fishing eels/anglers
 	
 	"blood crafting(unsure actually how afk)"
 	
 	smithing cballs
-	
-	glass blowing
 	
 	plank make
 	
