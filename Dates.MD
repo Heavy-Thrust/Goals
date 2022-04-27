@@ -20,6 +20,10 @@
           Rocky 60k xp (7/8/20)
           Heron 10.9m xp (1/5/20)
 ```
+## Jars
+```
+         Jar of Dirt 206 KC (4/27/22)           
+```
 ## Other achievements
 ```
           1b bank value (8/6/21)
