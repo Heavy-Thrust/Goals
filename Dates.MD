@@ -18,7 +18,7 @@
 ## Pets and their xp/kc and date obtained
 ```
           Rocky 60k xp (7/8/20)
-          Heron 10.9m xp (1/5/20)
+          Heron 10.9m xp (1/5/22)
 ```
 ## Jars
 ```
