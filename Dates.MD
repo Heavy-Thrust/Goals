@@ -13,6 +13,7 @@
           Magic Cape (2/15/22)
           Crafting Cape (2/26/22)
           Fletching Cape (4/9/22)
+          Ranging Cape (5/16/22)
           
 ```
 ## Pets and their xp/kc and date obtained
