@@ -25,8 +25,3 @@
 ```
          Jar of Dirt 206 KC (4/27/22)           
 ```
-## Other achievements
-```
-          1b bank value (8/6/21)
-```
-
