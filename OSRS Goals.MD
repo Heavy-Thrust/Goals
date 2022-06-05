@@ -29,9 +29,8 @@
           Hellpuppy from Cerberus
           Baby Mole form Giant Mole
 ```
-# Total Xp as of 7/4/21 is: 173,200,000
+# Total Xp as of 6/5/22 is: 278,600,000
 > Please check the Dates.MD for all dates when something was achieved.
-# Having a 1b bank value
 # Completing achievement diary
 # Champion cape
 ~~~
