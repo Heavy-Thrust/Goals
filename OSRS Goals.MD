@@ -8,7 +8,6 @@
           200m Cooking through best gp/Xp
           200m Farming through seeds in bank
           100m Woodcutting by afking redwoods
-          100m Crafting through discounted Zaff Battlestaffs
 ```
 ## Going for skilling pets i want:
 ```
@@ -17,7 +16,7 @@
           Fishing till tempo pet
           Runecraft bloods till pet
           Farming until pet(still going for 200m)
-          Mining at mlm
+          Mining at Amethyst
           Beaver until pet (sill going for 200m)
 ```
 ## Going for bossing pets i want:
