@@ -32,16 +32,3 @@
 # Total Xp as of 6/5/22 is: 278,600,000
 > Please check the Dates.MD for all dates when something was achieved.
 # Completing achievement diary
-# Champion cape
-~~~
-          Imp-624
-          Goblin-1844
-          Skelton-1986
-          Zombie-
-          Giant-????
-          Hobgoblin-
-          Ghoul-
-          Earth warrior-
-          Joger-
-          Lesser
-~~~
