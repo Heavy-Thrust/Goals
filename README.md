@@ -23,6 +23,20 @@
           Heron 10.9m xp (1/5/22)
           Rock Golem 16.3m xp (7/24/22)
 ```
+# Champion cape
+~~~
+          Imp-624
+          Goblin-1844
+          Skelton-1986
+          Zombie-
+          Giant-????
+          Hobgoblin-
+          Ghoul-
+          Earth warrior-
+          Joger-
+          Lesser
+~~~
+
 ## Jars
 ```
          Jar of Dirt 206 KC (4/27/22)           
