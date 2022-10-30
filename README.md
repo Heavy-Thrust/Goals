@@ -22,6 +22,7 @@
           Rocky 60k xp (7/8/20)
           Heron 10.9m xp (1/5/22)
           Rock Golem 16.3m xp (7/24/22)
+          Skotos 26 KC (10/30/22)
 ```
 # Champion cape
 ~~~
