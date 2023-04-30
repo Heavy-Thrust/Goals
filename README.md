@@ -16,6 +16,7 @@
           Ranging Cape (5/16/22)
           Smithing Cape (6/19/22)
           Slayer Cape (4/27/23)
+          Prayer Cap (4/29/23)
           
 ```
 # Pets and their xp/kc and date obtained
