@@ -9,7 +9,7 @@
           Woodcutting Cape (8/30/21)
           Attack Cape (9/2/21)
           Mining Cape (11/13/21)
-          Fishing cape (1/26/22)
+          Fishing Cape (1/26/22)
           Magic Cape (2/15/22)
           Crafting Cape (2/26/22)
           Fletching Cape (4/9/22)
@@ -17,6 +17,7 @@
           Smithing Cape (6/19/22)
           Slayer Cape (4/27/23)
           Prayer Cap (4/29/23)
+          Herblore Cape (7/24/23)
           
 ```
 # Pets and their xp/kc and date obtained
