@@ -18,7 +18,7 @@
           Slayer Cape (4/27/23)
           Prayer Cap (4/29/23)
           Herblore Cape (7/24/23)
-          
+          Thieving Cape (8/12/23)
 ```
 # Pets and their xp/kc and date obtained
 ```
