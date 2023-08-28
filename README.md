@@ -55,5 +55,5 @@
 # Misc
 ```
           full dusk mystic 752 keys
-                    (https://i.imgur.com/5HIM9M3.png)
+                    [image](https://i.imgur.com/5HIM9M3.png)
 ```
