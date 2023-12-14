@@ -27,6 +27,7 @@
           Rock Golem 16.3m xp (7/24/22)
           Skotos 26 KC (10/30/22)
           Tangleroot 103.3m xp (3/2/23)
+                    2nd @ 164.9m xp (12/14/23)
           Baby Mole 227 kc (3/3/23)
           Kraken 9203 kc (7/2/23)
 ```
