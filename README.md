@@ -32,6 +32,7 @@
           Baby Mole 227 kc (3/3/23)
           Kraken 9203 kc (7/2/23)
           Scurry 926 kc (1/28/24)
+          Beaver 115.2m xp(2/28/24)
 ```
 # Champion cape
 ~~~
