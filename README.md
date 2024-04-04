@@ -59,5 +59,3 @@
 # Misc
 
 full dusk mystic 752 keys [image](https://i.imgur.com/5HIM9M3.png)
-
-big bass 644 bass
