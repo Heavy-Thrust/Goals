@@ -33,6 +33,7 @@
           Kraken 9203 kc (7/2/23)
           Scurry 926 kc (1/28/24)
           Beaver 115.2m xp(2/28/24)
+                    2nd @ 142.9m xp (8/12/24)
 ```
 # Champion cape
 ~~~
