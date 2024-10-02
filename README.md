@@ -42,7 +42,7 @@
           Skelton-1986
           Zombie-
           Giant-????
-          Hobgoblin-
+          Hobgoblin-305
           Ghoul-
           Earth warrior-
           Joger-
