@@ -19,7 +19,6 @@
           Herblore Cape (7/24/23)
           Thieving Cape (8/12/23)
           Hunter Cape (2/1/24)
-          [Pet Album](https://imgur.com/a/pets-KwvXbhn)
 [Pet Album](https://imgur.com/a/pets-KwvXbhn)
 
 
@@ -55,4 +54,4 @@
           200m Farming (5/10/2024)
 # Misc
 
-full dusk mystic 752 keys [image](https://i.imgur.com/5HIM9M3.png)
+[Full dusk mystic 752 keys](https://i.imgur.com/5HIM9M3.png)
