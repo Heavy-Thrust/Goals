@@ -1,5 +1,5 @@
 # Capes and the dates they were obtained
-          Firemaking Cape (10/7/20)
+Firemaking Cape (10/7/20)
           Farming Cape (10/11/20)
           Cooking Cape (10/16/20)
           Strength Cape (1/22/21)
@@ -21,7 +21,7 @@
           Hunter Cape (2/1/24)
 
 # Pets and their xp/kc and date obtained
-          Rocky 60k xp (7/8/20)(https://imgur.com/screenshot-17-21-47-png-D2JDihk)
+Rocky 60k xp (7/8/20)(https://imgur.com/screenshot-17-21-47-png-D2JDihk)
           Heron 10.9m xp (1/5/22)(https://i.imgur.com/culirIp.png)
           Rock Golem 16.3m xp (7/24/22)(https://i.imgur.com/k90bl7A.png)
           Skotos 26 KC (10/30/22)(https://i.imgur.com/y4Fb5Z6.jpeg)
