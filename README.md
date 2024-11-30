@@ -19,7 +19,7 @@
           Herblore Cape (7/24/23)
           Thieving Cape (8/12/23)
           Hunter Cape (2/1/24)
-(Pet Album)[https://imgur.com/a/pets-KwvXbhn]
+[Pet Album](https://imgur.com/a/pets-KwvXbhn)
 
 
 # Pets and their xp/kc and date obtained
