@@ -34,7 +34,7 @@
           Scurry 926 kc (1/28/24)(https://i.imgur.com/WPl8mn8.jpeg)
           Beaver 115.2m xp(2/28/24)(https://i.imgur.com/yuJ6Rxr.jpeg)
                     2nd @ 142.9m xp (8/12/24)[image](https://i.imgur.com/x4LVCr3.jpeg)
-          yup [image](https://imgur.com/pO2c6tm)
+          yup: [image](https://imgur.com/pO2c6tm)
 
 ```
 # Champion cape
