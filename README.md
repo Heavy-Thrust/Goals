@@ -1,5 +1,4 @@
 # Capes and the dates they were obtained
-```
           Firemaking Cape (10/7/20)
           Farming Cape (10/11/20)
           Cooking Cape (10/16/20)
@@ -20,9 +19,8 @@
           Herblore Cape (7/24/23)
           Thieving Cape (8/12/23)
           Hunter Cape (2/1/24)
-```
+
 # Pets and their xp/kc and date obtained
-```
           Rocky 60k xp (7/8/20)(https://imgur.com/screenshot-17-21-47-png-D2JDihk)
           Heron 10.9m xp (1/5/22)(https://i.imgur.com/culirIp.png)
           Rock Golem 16.3m xp (7/24/22)(https://i.imgur.com/k90bl7A.png)
@@ -34,11 +32,8 @@
           Scurry 926 kc (1/28/24)(https://i.imgur.com/WPl8mn8.jpeg)
           Beaver 115.2m xp(2/28/24)(https://i.imgur.com/yuJ6Rxr.jpeg)
                     2nd @ 142.9m xp (8/12/24)[image](https://i.imgur.com/x4LVCr3.jpeg)
-          yup: [image](https://imgur.com/pO2c6tm)
-
-```
 # Champion cape
-~~~
+
           Imp-624
           Goblin-1844
           Skelton-1986
@@ -49,17 +44,12 @@
           Earth warrior-
           Joger-
           Lesser
-~~~
-
 # Jars
-```
+
          Jar of Dirt 206 KC (4/27/22)           
-```
 # 200m
-```
           200m Cooking (2/2/2023)
           200m Farming (5/10/2024)
-```
 # Misc
 
 full dusk mystic 752 keys [image](https://i.imgur.com/5HIM9M3.png)
