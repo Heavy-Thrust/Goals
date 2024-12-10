@@ -39,7 +39,7 @@
           Imp-624
           Goblin-1844
           Skelton-1986
-          Zombie-
+          Zombie-18650
           Giant-????
           Hobgoblin-305
           Ghoul-
