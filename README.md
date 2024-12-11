@@ -42,7 +42,7 @@
           Zombie-18650
           Giant-????
           Hobgoblin-305
-          Ghoul-
+          Ghoul-2894
           Earth warrior-
           Joger-
           Lesser
