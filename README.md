@@ -32,7 +32,7 @@
           Scurry 926 kc (1/28/24)
           Beaver 115.2m xp(2/28/24)
                     2nd @ 142.9m xp (8/12/24)
-          [Pet Album](https://imgur.com/a/pets-KwvXbhn)
+[Pet Album](https://imgur.com/a/pets-KwvXbhn)
 
 # Champion cape
 
