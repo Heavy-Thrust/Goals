@@ -43,7 +43,7 @@
           Giant-????
           Hobgoblin-305
           Ghoul-2894
-          Earth warrior-
+          Earth warrior-231
           Joger-1206
           Lesser-2736
 # Jars
