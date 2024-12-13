@@ -44,8 +44,8 @@
           Hobgoblin-305
           Ghoul-2894
           Earth warrior-
-          Joger-
-          Lesser
+          Joger-1206
+          Lesser-
 # Jars
 
          Jar of Dirt 206 KC (4/27/22)           
