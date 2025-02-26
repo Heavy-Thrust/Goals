@@ -24,6 +24,7 @@
           Rocky 60k xp (7/8/20)
           Heron 10.9m xp (1/5/22)
           Rock Golem 16.3m xp (7/24/22)
+                    2nd 16.9m lvl 5 shooting star(2/26/25)
           Skotos 26 KC (10/30/22)
           Tangleroot 103.3m xp (3/2/23)
                     2nd @ 164.9m xp (12/14/23)
