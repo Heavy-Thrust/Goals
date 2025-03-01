@@ -5,6 +5,5 @@
     Elite#BBA418
     Master#8C2922
 # Quick lock slot hotkeyes
-    [Bank settings](https://imgur.com/vJlylRu)
-    Custom Menu Swaps - https://imgur.com/TdmHndj
-    
+[Bank settings](https://imgur.com/vJlylRu)
+[Custom Menu Swaps](https://imgur.com/TdmHndj)
