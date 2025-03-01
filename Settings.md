@@ -7,4 +7,4 @@
 # Quick lock slot hotkeyes
 ![vJlylRu](https://github.com/user-attachments/assets/cbe2bf88-1dbb-4b78-84a9-bed427ecf582) ![TdmHndj](https://github.com/user-attachments/assets/cfe898e8-a920-40f8-8a46-2d18700edaaa)
 # Clue details
-    https://thelope.github.io/clue-tags/details/
+    [Clue information in inv without opening the clue](https://thelope.github.io/clue-tags/details/)
