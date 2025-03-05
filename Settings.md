@@ -1,4 +1,4 @@
-# Clue ground colors
+# Clue ground colors ![hM0AyaC](https://github.com/user-attachments/assets/96035e35-4ab5-4bcc-a533-44850a9edcaf)
     Easy 10D911
     Medium 57969A
     Hard 75308A
